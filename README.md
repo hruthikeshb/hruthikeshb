@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hruthikesh 👋
 
-<!--
-**Hruthik08-tech/Hruthik08-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student pursuing ***Artificial Intelligence & Machine Learning*** at ***RV College of Engineering***.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+I am learning Data Structures & Algorithms, Java, Python, C, Backend Development, Linux, and Machine Learning to strengthen my fundamentals. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Building
+* Backend and machine learning projects to strengthen software engineering fundamentals
+
+### 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/hruthikesh/
+* Email: [hruthikesh2008@gmail.com](mailto:hruthikesh2008@gmail.com)
+
+
+
