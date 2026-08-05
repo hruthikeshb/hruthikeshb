@@ -2,7 +2,7 @@
 
 I'm an undergraduate student pursuing ***Artificial Intelligence & Machine Learning*** at ***RV College of Engineering***.
 
-## 🚀 Currently Learning
+## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -11,9 +11,6 @@ I'm an undergraduate student pursuing ***Artificial Intelligence & Machine Learn
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Backend](https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
-
-## 🛠️ **I am Currently Building**: 
-An interactive Bloch sphere simulator for visualizing single-qubit states and quantum gate operations using raylib.
 
 
 #### 📫 Connect with Me
