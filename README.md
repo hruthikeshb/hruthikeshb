@@ -1,21 +1,25 @@
-# Hi, I'm Hruthikesh 👋
+# Hi, I'm Hruthikesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-I'm an undergraduate student pursuing ***Artificial Intelligence & Machine Learning*** at ***RV College of Engineering***.
+<p align="left">
+  🎓 I'm an undergraduate student pursuing <b>Artificial Intelligence & Machine Learning</b> at <b>RV College of Engineering</b>.
+</p>
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Backend](https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /> <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" /> <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /> </p>
 
+### 🤝 Let's Connect
 
-#### 📫 Connect with Me
-* LinkedIn: https://www.linkedin.com/in/hruthikesh/
-* Email: [hruthikesh2008@gmail.com](mailto:hruthikesh2008@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/hruthikesh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hruthikesh2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 
