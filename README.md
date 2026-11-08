@@ -8,6 +8,10 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /> <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" /> <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /> </p>
 
+<!-- git-koi start -->
+<img src="https://githubusercontent.com" alt="My Git Koi" width="300"/>
+<!-- git-koi end -->
+
 ### 🤝 Let's Connect
 
 <p align="left">
